@@ -1,0 +1,25 @@
+# Python specific
+*.pyc
+*.pyo
+__pycache__/
+
+# Python virtual environments
+venv/
+env/
+
+# Fride wraps
+__handlers__/
+
+# IDE specific
+.idea/
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Other
+out/
+tmp/
+*.log
+.db
+*.bak
